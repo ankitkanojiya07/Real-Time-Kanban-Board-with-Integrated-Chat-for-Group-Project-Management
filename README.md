@@ -22,6 +22,14 @@ This web application is designed for group project management, featuring a Kanba
 - **Task-Related Chats**: Discuss specific tasks directly within the Kanban board context. Clicking on a task can open a chat window related to that task.
 - **Activity Stream**: Displays a feed of recent activities and messages related to the project, accessible from the Kanban board.
 
+
+  ## Technologies Used
+
+- **Backend**: Node.js, Express.js, MongoDB, Socket.io
+- **Frontend**: React.js, Axios,React Router DOM
+- **Styling**: CSS 
+
+
 ## Installation
 
 ### Backend Setup
